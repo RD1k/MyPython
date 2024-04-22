@@ -1,2 +1,5 @@
 user_input = input("Please enter integer number xxxx:  ")
-print(lst(user_input[0, 1, 2, 3]))
+print(user_input[0])
+print(user_input[1])
+print(user_input[2])
+print(user_input[3])
